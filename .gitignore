@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# Crawled output
+*.json
+*.jsonl
+
+# Keep portfolio sample
+!samples/sample_regulations.jsonl
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
